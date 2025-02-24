@@ -12,9 +12,6 @@ This project focuses on analyzing Olist's e-commerce sales and purchase data to 
 ## Market
 - **Ecommerce**
 
-## Repository Link
-[OlistEcommercesales GitHub Repository](https://github.com/GeorgeBonga/Olist-E-commerce-sales-Purchase-analysis)
-
 ## Background & Overview
 Olist is one of Brazil’s leading e-commerce platforms that connects thousands of sellers with millions of customers nationwide. Founded with the vision to democratize online commerce, Olist has grown rapidly by offering a diverse range of products—from fashion and electronics to home goods—across its online marketplace. 
 

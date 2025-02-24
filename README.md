@@ -31,4 +31,7 @@ Given the heterogeneous nature of the available data—from customer information
 [Click here to view the data cleaning source code](https://github.com/GeorgeBonga/Olist-E-commerce-sales-Purchase-analysis/blob/main/Exploration/Olist_dataset_cleaning.ipynb)
 
 ## Olist Database ERD
-![Olist Database ERD](./assets/OlistERD.png)
+
+  <img src="Data/OlistERD.png"/>
+
+

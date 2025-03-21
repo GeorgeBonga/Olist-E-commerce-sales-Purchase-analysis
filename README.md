@@ -3,6 +3,10 @@
 ## Project Overview
 This project focuses on analyzing Olist's e-commerce sales and purchase data to gain insights into key sales trends, product performance, customer behavior, and overall business efficiency. The goal is to provide data-driven recommendations that enhance decision-making for sales, marketing, and product teams.
 
+
+## Relevant Links
+- [View Live Tableau Dashboard](https://public.tableau.com/app/profile/george.bonga/viz/OlistE-commerceSalesPurchaseAnalysis/Dashboard)
+
 ## Tools Used
 - **Excel**
 - **SQL**
